@@ -1,0 +1,6 @@
+name: KeyInputsPlugin
+author: Cerus
+main: de.cerus.keyinputs.plugin.KeyInputs
+version: 1.0
+
+depend: [LabyModAPI]
